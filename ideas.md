@@ -2,13 +2,13 @@
 
 1.- **Vizpoint**
 
-Geolocalizar conjuntos de datos en la ciudad con el fin de que aparezcan como datos contextualizados en mi rutina diaria en la Ciudad a través de una aplicación móvil. De esta manera cuando abro mi celular, puedo ver las capas de información que la ciudad ha dispuesto para mi en ese punto específico, localización que ya es es cierta forma de mi interés, ya que por alguna razón estoy parado allí. 
+Geolocalizar conjuntos de datos en la ciudad con el fin de que aparezcan como datos contextualizados en mi rutina diaria en la Ciudad a través de una aplicación móvil. De esta manera cuando abro mi celular, puedo ver las capas de información que la ciudad ha dispuesto para mi en ese punto específico, localización que ya es en cierta forma de mi interés, ya que por alguna razón estoy parado allí( ;) ). 
 
 Para tener los datos en contexto los conjuntos de datos del portal de datos abiertos deben tener espacialidad a diversas escalas, las que irán desde una escala micro (barrio) a otra macro (ayuntamiento). 
 
-Cada conjunto de datos determinará un geofence. El usuario al entrar a ese geofence activará las capas de información para dicha área.
+Cada conjunto de datos determinará un [geofence](https://developer.android.com/training/location/geofencing.html). El usuario al entrar a ese geofence activará las capas de información para dicha área.
 
-El usuario puede visualizar datos, compartirlos o incluso crear un dato nuevo, como por ejemplo la presencia de un micro-basural, un accidente, etc. Dicho dato pasará a la base de datos y pasará a ser parte de los datos públicos ciudadanos del ayuntamiento, bajo la premisa que los datos abiertos no solamente son accedidos y utilizados por la ciudadanía, sino que también compartidos. 
+El usuario puede visualizar datos, compartirlos o incluso crear un dato nuevo, como por ejemplo la presencia de un micro-basural, un accidente, etc. Dicho dato pasará a la base de datos y será parte de los datos públicos ciudadanos del ayuntamiento, bajo la premisa que los datos abiertos no solamente son accedidos y utilizados por la ciudadanía, sino que también compartidos. 
 
 ![](http://cdn.macrumors.com/article-new/2013/04/yahooweather.jpg)
 ---
@@ -25,7 +25,7 @@ Por ejemplo, si he producido una visualización de datos sobre la localización de
 
 El fin último es poder generar un acervo de código, imágenes y texto reutilizables, para que a través de organizaciones como MediaLab Prado se pueda enseñar a los ciudadanos a producir sus propias visualizaciones, profundizar en temas descubiertos por otros ciudadanos, y seguir produciendo innovación y conocimiento público. 
 
-En términos técnicos se crea un mecanismo a través del cual el código, texto e imágenes sean añadidos a un Git de la Ciudad, que funcione tal como lo hace GitHub y GitBook hoy en día.  
+En términos técnicos se crea un mecanismo (i.e.: plugin wordpress)a través del cual el código, texto e imágenes sean añadidos a un Git de la Ciudad, que funcione tal como lo hace GitHub y GitBook hoy en día.  
 
 ![](https://blog.openshift.com/wp-content/uploads/imported/Git-Windows-2x.png)
 ---
