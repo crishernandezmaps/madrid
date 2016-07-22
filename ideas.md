@@ -25,7 +25,7 @@ Por ejemplo, si he producido una visualización de datos sobre la localización de
 
 El fin último es poder generar un acervo de código, imágenes y texto reutilizables, para que a través de organizaciones como MediaLab Prado se pueda enseñar a los ciudadanos a producir sus propias visualizaciones, profundizar en temas descubiertos por otros ciudadanos, y seguir produciendo innovación y conocimiento público. 
 
-En términos técnicos se crea un mecanismo (i.e.: plugin wordpress)a través del cual el código, texto e imágenes sean añadidos a un Git de la Ciudad, que funcione tal como lo hace GitHub y GitBook hoy en día.  
+En términos técnicos se crea un mecanismo (i.e.: plugin wordpress) a través del cual el código, texto e imágenes sean añadidos a un Git de la Ciudad, que funcione tal como lo hace GitHub y GitBook hoy en día.  
 
 ![](https://blog.openshift.com/wp-content/uploads/imported/Git-Windows-2x.png)
 ---
