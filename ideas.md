@@ -11,6 +11,7 @@ Cada conjunto de datos determinará un geofence. El usuario al entrar a ese geofe
 El usuario puede visualizar datos, compartirlos o incluso crear un dato nuevo, como por ejemplo la presencia de un micro-basural, un accidente, etc. Dicho dato pasará a la base de datos y pasará a ser parte de los datos públicos ciudadanos del ayuntamiento, bajo la premisa que los datos abiertos no solamente son accedidos y utilizados por la ciudadanía, sino que también compartidos. 
 
 ![](http://cdn.macrumors.com/article-new/2013/04/yahooweather.jpg)
+---
 Source: http://cdn.macrumors.com/ 
 
 
@@ -27,6 +28,7 @@ El fin último es poder generar un acervo de código, imágenes y texto reutilizabl
 En términos técnicos se crea un mecanismo a través del cual el código, texto e imágenes sean añadidos a un Git de la Ciudad, que funcione tal como lo hace GitHub y GitBook hoy en día.  
 
 ![](https://blog.openshift.com/wp-content/uploads/imported/Git-Windows-2x.png)
+---
 Source: https://blog.openshift.com
 
 
