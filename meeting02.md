@@ -7,10 +7,10 @@ Asistentes: Miguel - Cris.
 
 **Acuerdos:**
 
-1 Es una propuesta de Visualización de datos ambientales abiertos + agregación de datos desde los ciudadanos a través de una aplicación móvil.
-2. El prototipo que se construirá (de ser seleccionados) tendrá tres etapas, las que se desarrollarán en la jornada a realizarse entre el 26 de Septiembre y 5 de Octubre, las etapas son: (i) recolección de datos desde el portal de datos abiertos de Madrid (conjunto de datos de interés -datos ambientales); (ii)visualización de los datos de acuerdo a la localización del ciudadano; y (iii) pruebas con usuarios y testeo con la comunidad: el proyecto también Incluye una propuesta de intervención participativa (Ingeniería social)  proyecto de animación a la participación en la herramienta.  
-3. El objetivo de la aplicación será preocuparse de temáticas y conflictos ambientales urbanos. Por esta razón se utilizará la sección de Datos ambientales del portal datos.madrid.es.- 
-4. Especial énfasis tendrá las variables que puedan ser medidas por parte del usuario usando los sensores del teléfono, como la contaminación acústica o la contaminación visual (micro basurales).
+- Es una propuesta de Visualización de datos ambientales abiertos + agregación de datos desde los ciudadanos a través de una aplicación móvil.
+- El prototipo que se construirá (de ser seleccionados) tendrá tres etapas, las que se desarrollarán en la jornada a realizarse entre el 26 de Septiembre y 5 de Octubre, las etapas son: (i) recolección de datos desde el portal de datos abiertos de Madrid (conjunto de datos de interés -datos ambientales); (ii)visualización de los datos de acuerdo a la localización del ciudadano; y (iii) pruebas con usuarios y testeo con la comunidad: el proyecto también Incluye una propuesta de intervención participativa (Ingeniería social)  proyecto de animación a la participación en la herramienta.  
+- El objetivo de la aplicación será preocuparse de temáticas y conflictos ambientales urbanos. Por esta razón se utilizará la sección de Datos ambientales del portal datos.madrid.es.- 
+- Especial énfasis tendrá las variables que puedan ser medidas por parte del usuario usando los sensores del teléfono, como la contaminación acústica o la contaminación visual (micro basurales).
 
 **Tareas:**
 
