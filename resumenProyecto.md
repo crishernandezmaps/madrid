@@ -24,11 +24,9 @@ Además del equipo central, se espera contar con la participación de al menos un 
 ## Alcances
 Para esta etapa, se espera lograr el desarrollo de un prototipo funcional, es decir, que pueda cumplir el ciclo de visualizar datos, agregar datos, aprobar/desaprobar datos y la validación técnica del mismo.
 
----
+# About the Contest
 
  > **NOTA**: esta sección rescata lo relevante de la información oficial de la iniciativa #Visualizar16, como la visión del concurso, criterios de evaluación, formulario de postulación, contactos y links a proyectos interesantes al respecto.
-
-# About the Contest
 
 ## The Approach
 
